@@ -11,14 +11,20 @@ export default function AboutMe() {
 
                 <div className='aboutmeTextDiv'>
                     <p className="aboutme">
-                        I have diverse set of skills ranging from HTML, CSS, JavaScript,
-                        ReactJs to ExpressJs, MongoDB, NodeJs</p>
-                    <ul>
-                        <li>I have worked on several different projects solo as well as collaboratively</li>
-                        <li>Passionate about implementing and launching new projects</li>
-                        <li>Ability to translate business requirements into technical solutions</li>
-                    </ul>
-                    <p className="aboutme">Looking to start the career as a web developer</p>
+                        <p> This is Priyanshi Tiwari, Graduated in computer science from MITS college Rayagada,Odisha 
+and trained in Masai school with diverse set of skills ranging from HTML, CSS, JavaScript,
+                        ReactJs to ExpressJs, MongoDB, NodeJs and built several projects solo as well as collaboratively.
+
+                          
+
+                        </p>
+
+                     <p> Innovate and responsive design building in web development is one of my passion and always keen to  learn and develop new skills  with the following future advanced technologies as well as 
+                         aiming to achieve a challenging and successful career as a full-stack developer to make a significant contribution with trendsetting ideas, knowledge and skills with the objective of growth and development of the orgnaization. 
+
+                       </p>
+                        </p>
+                  
 
                     <div className="colzs">
                         <div className="colz-icons">
