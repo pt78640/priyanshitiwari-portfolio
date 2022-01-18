@@ -12,7 +12,7 @@ export const Project = () => {
                         <p>Zoomcar, is an Indian self-drive car rental company, headquartered in Bangalore, India.</p>
                         <div className="links">
                             <a target="_blank" rel="noopener noreferrer" href="https://github.com/Ranjan1501/Zoomcar_full_Stack.git"><FaGithubSquare className='social-media-icon' /></a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://glacial-ridge-70258.herokuapp.com/"><FaLink className='social-media-icon' /></a> 
+                            <a target="_blank" rel="noopener noreferrer" href="https://zoomcar-backend.herokuapp.com/"><FaLink className='social-media-icon' /></a> 
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
