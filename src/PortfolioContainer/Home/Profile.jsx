@@ -79,7 +79,7 @@ export default function Profile() {
                                 </div>
                                 <div className='profile-option'>
 
-                                    <a href="https://drive.google.com/file/d/17a1tanKZ15vPTr2RROZjhqJVCUz-P5ld/view?usp=sharing" download='resume.pdf' target="_blank">
+                                    <a href="https://drive.google.com/file/d/17a1tanKZ15vPTr2RROZjhqJVCUz-P5ld/view?usp=sharing" download='resume.pdf' target="_blank" rel="noopener noreferrer">
                                         <button className="getResumeBtn">Get Resume</button>
                                     </a>
                                 </div>
