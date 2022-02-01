@@ -49,11 +49,11 @@ export default function Resume() {
                                 <p style={{fontWeight:"bolder"}}>ExpressJs</p>
                                     <img style={{marginTop:"-17px"}} src={expressIcon} alt="" />
                                 </div>
-                                <div className="skillCard2">
+                                <div className="skillCard2" id="skillCard2">
                                 <p style={{fontWeight:"bolder"}}>NodeJs</p>
                                     <img style={{marginTop:"-17px"}} src={nodeIcon} alt="" />
                                 </div>
-                                <div className="skillCard2">
+                                <div className="skillCard2" id="skilcard">
                                 <p style={{fontWeight:"bolder"}}>MongoDB</p>
                                     <img style={{marginTop:"-17px"}} src={mongoIcon} alt="" />
                                 </div>

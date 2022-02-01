@@ -34,7 +34,7 @@ and trained in Masai school with diverse set of skills ranging from HTML, CSS, J
                     </div>
                     <div className='aboutBtnDiv'>
                         {/* <button className='hireMeBtn'>Hire Me</button> */}
-                        <a href="https://drive.google.com/file/d/17a1tanKZ15vPTr2RROZjhqJVCUz-P5ld/view?usp=sharing" download='resume.pdf'>
+                        <a href="https://drive.google.com/file/d/17a1tanKZ15vPTr2RROZjhqJVCUz-P5ld/view?usp=sharing" download='resume.pdf' target="_blank">
                             <button className="getBtn">Get Resume</button>
                         </a>
                     </div>

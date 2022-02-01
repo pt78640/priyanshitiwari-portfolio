@@ -124,6 +124,22 @@
     .skillcardMain{
         display: grid;
         grid-template-columns: 40% 40%;
+        /* grid-gap:5px; */
     }
+    #skillCard2 img{
+        padding-left:19px;
+        /* box-sizing: border-box */
+    }
+    #skillCard2 p{
+        padding-left:15px;
+        box-sizing: border-box
+    }
+    #skilcard{
+        margin-top:15px;
+    }
+    .backEnd{
+        margin-top:34px;
+    }
+
    
 }
