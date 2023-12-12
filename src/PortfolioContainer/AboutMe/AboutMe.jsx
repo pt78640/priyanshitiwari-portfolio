@@ -11,12 +11,7 @@ export default function AboutMe() {
 
                 <div className='aboutmeTextDiv'>
                     <p className="aboutme">
-                        <p> This is Priyanshi Tiwari, Graduated in computer science from MITS college Rayagada,Odisha 
-and trained in Masai school with diverse set of skills ranging from HTML, CSS, JavaScript,
-                        ReactJs to ExpressJs, MongoDB, NodeJs and built several projects solo as well as collaboratively.
-
-                          
-
+                        
                         </p>
 
                      <p> Innovate and responsive design building in web development is one of my passion and always keen to  learn and develop new skills  with the following future advanced technologies as well as 
